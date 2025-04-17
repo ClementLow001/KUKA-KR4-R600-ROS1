@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/1475bbe6-de55-4784-bc98-9dca60bb2a49
+
+
 # KUKA-KR4-R600
 Project used for school work
 
