@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/1475bbe6-de55-4784-bc98-9dca60bb2a49
+https://github.com/user-attachments/assets/65af37bd-e7e8-4ed4-9726-21cb225343a9
 
 
 # KUKA-KR4-R600
